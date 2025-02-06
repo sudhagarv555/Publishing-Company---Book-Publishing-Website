@@ -45,4 +45,11 @@ This project is developed using:
 
 8. An interactive search bar, allowing users to find books easily.
 
+## About
+This project is a Publishing Company landing page, designed to enhance the online presence of a book publishing business. 
+The website is fully responsive and built with clean and modern design principles.
+
+## Live Demo: [GitHub Pages Link] (replace with actual link)
+## GitHub Repository: [Repository Link] (replace with actual link)
+
 
