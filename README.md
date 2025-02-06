@@ -1,4 +1,5 @@
 # Publishing-Company-Book-Publishing-Website
 
-![Screenshot 2025-02-06 192304](https://github.com/user-attachments/assets/645e69ae-c06c-46d0-bbfd-0a23974bb276)
+![Screenshot 2025-02-06 192703](https://github.com/user-attachments/assets/448c60f1-7441-4f85-a3c8-c879d7406ef2)
+
 
