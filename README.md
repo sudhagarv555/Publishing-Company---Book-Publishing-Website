@@ -15,4 +15,12 @@ The goal is to build a fully functional and visually appealing publishing compan
 
 ✔ A visually appealing about section
 
+## Tools & Technologies
+This project is developed using:
+✅ HTML - Structure of the webpage
+✅ CSS - Styling and responsiveness
+✅ JavaScript - Enhancing interactivity
+✅ FontAwesome - Icons for social media and UI elements
+✅ Google Fonts - Custom typography for a professional look
+
 
