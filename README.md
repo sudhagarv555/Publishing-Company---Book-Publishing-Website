@@ -4,10 +4,15 @@
 
 ## Project Objective
 The goal is to build a fully functional and visually appealing publishing company website that provides:
+
 ✔ A clean and professional homepage
+
 ✔ A new releases section showcasing the latest books
+
 ✔ A search bar for easy navigation
+
 ✔ A responsive navigation menu
+
 ✔ A visually appealing about section
 
 
