@@ -49,7 +49,7 @@ This project is developed using:
 This project is a Publishing Company landing page, designed to enhance the online presence of a book publishing business. 
 The website is fully responsive and built with clean and modern design principles.
 
- Live Demo: [<a href=""><a>] (replace with actual link)
- GitHub Repository: [Repository Link] (replace with actual link)
+ Live Demo: [<a href="https://sudhagarv555.github.io/Publishing-Company---Book-Publishing-Website/">WebSite<a>]
+ GitHub Repository: [<a href="https://github.com/sudhagarv555/Publishing-Company---Book-Publishing-Website">Repository<a>] 
 
 
